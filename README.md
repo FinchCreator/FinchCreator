@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FinchCreator
-- 👀 I’m interested in programming language
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Rust language, Python language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
